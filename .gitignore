@@ -1,8 +1,8 @@
-Merge2048/library/*
-Merge2048/local/*
-Merge2048/temp/*
-Merge2048/settings/*
-Merge2048/wxbuild/*
+HanZiMerge/library/*
+HanZiMerge/local/*
+HanZiMerge/temp/*
+HanZiMerge/settings/*
+HanZiMerge/wxbuild/*
 wx-open-data-project/build/*
 wx-open-data-project/library/*
 wx-open-data-project/local/*
